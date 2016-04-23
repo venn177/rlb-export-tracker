@@ -1,0 +1,56 @@
+<?php 
+$team_1 = "Carolina Pilots";
+$team_2 = "Motor City Madmen";
+$team_3 = "New York Empires";
+$team_4 = "Brooklyn Patsies";
+$team_5 = "Las Vegas Bunnies";
+$team_6 = "Shadowland Reapers";
+$team_7 = "Chicago Railmen";
+$team_8 = "Kansas City Kings";
+$team_9 = "Seattle Geoducks";
+$team_10 = "Tijuana Tacos";
+$team_11 = "San Jose Rattatas";
+$team_12 = "Whitehorse Ice Climbers";
+$team_13 = "Syracuse Saltshakers";
+$team_14 = "Miami Manatees";
+$team_15 = "Montreal Beavers";
+$team_16 = "Hartford Harpoons";
+$team_17 = "Akron Vulcans";
+$team_18 = "Nashville Gamblers";
+$team_19 = "Memphis Lemons";
+$team_20 = "Indianapolis Yetis";
+$team_21 = "Fargo Brewers";
+$team_22 = "Houston Colt .45s";
+$team_23 = "Cheyenne Steam";
+$team_24 = "Alameda Astronauts";
+
+$teamid_1 = "team_files/team_12.ootp";
+$teamid_2 = "team_files/team_9.ootp";
+$teamid_3 = "team_files/team_4.ootp";
+$teamid_4 = "team_files/team_10.ootp";
+$teamid_5 = "team_files/team_2.ootp";
+$teamid_6 = "team_files/team_1.ootp";
+$teamid_7 = "team_files/team_223.ootp";
+$teamid_8 = "team_files/team_225.ootp";
+$teamid_9 = "team_files/team_3.ootp";
+$teamid_10 = "team_files/team_11.ootp";
+$teamid_11 = "team_files/team_248.ootp";
+$teamid_12 = "team_files/team_250.ootp";
+$teamid_13 = "team_files/team_5.ootp";
+$teamid_14 = "team_files/team_14.ootp";
+$teamid_15 = "team_files/team_247.ootp";
+$teamid_16 = "team_files/team_224.ootp";
+$teamid_17 = "team_files/team_226.ootp";
+$teamid_18 = "team_files/team_16.ootp";
+$teamid_19 = "team_files/team_6.ootp";
+$teamid_20 = "team_files/team_8.ootp";
+$teamid_21 = "team_files/team_15.ootp";
+$teamid_22 = "team_files/team_7.ootp";
+$teamid_23 = "team_files/team_249.ootp";
+$teamid_24 = "team_files/team_13.ootp";
+
+
+$leaguefile = 'files/default.tar.gz';
+$leaguename = 'RLB Export Tracker';
+$commish_message_title = 'Important Notice!';
+$message = '';
